@@ -2,6 +2,7 @@
 # Colorimetric Lamp PCR 제어 시스템 (Firmware + GUI)
 
 이 프로젝트는 **PCR 결과를 시약의 색변화로 탐지하는 장비**인 `Colorimetric Lamp PCR`의 소프트웨어 및 펌웨어 제어 시스템입니다.
+
 **카메라 모듈 관련**내용은 추후 업로드 예정
 
 ## 시스템 개요
